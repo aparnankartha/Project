@@ -1,9 +1,9 @@
 ## Quicksite Website Manual Testing
 
 ## Introduction
-**.** This project involved detailed manual testing of the Quicksite. 
-**.** The Manual Testing of Quicksite focuses on validating the functionality, usability, and compatibility of the Quicksite web application.
-**.** The project ensures the application's quality through manual testing across browsers and devices.
+**.** This project involved detailed manual testing of the Quicksite.                                                                                                                                                  
+**.** The Manual Testing of Quicksite focuses on validating the functionality, usability, and compatibility of the Quicksite web application.                                                                        
+**.** The project ensures the application's quality through manual testing across browsers and devices.                                                                                                              
 **.** The testing process included detailed documentation to track progress and report results.
 
 ## Project Type
