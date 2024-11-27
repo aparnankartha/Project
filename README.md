@@ -19,6 +19,8 @@ Manual Testing
 -  Documented identified bugs in the bug report, including detailed descriptions, steps, expected results, actual results, severity levels, and any relevant screenshots for clarity.
 -  Created Mind map.
 
+##AUT : https://server-swimmers-035.vercel.app/
+
 ## Documents
 
     - Test Plan
